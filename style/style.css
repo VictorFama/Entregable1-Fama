@@ -23,8 +23,13 @@
     padding: 0.5rem;
 }
 
+.form-container {
+    padding: 2rem;
+    border-radius: 0.5rem;
+    max-width: 400px;
+    margin: 0 auto;
+}
 
-/* Estilo para cada fila de label+input */
 .form-row {
     margin-bottom: 2rem;
     align-items: center;
@@ -59,3 +64,4 @@
     outline: none;
     box-shadow: 0 0 0 .2rem rgba(40,167,69,.25);
 }
+
